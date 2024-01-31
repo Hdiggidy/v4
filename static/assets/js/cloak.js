@@ -1,5 +1,5 @@
 (function() {
-  var defaultTitle = 'Doge | V4';
+  var defaultTitle = 'H+J v1';
   var defaultIcon = '/assets/img/doge.jpg';
 
   var storedTitle = localStorage.getItem('tabTitle');
